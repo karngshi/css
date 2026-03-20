@@ -1,1 +1,15 @@
-/*this is a test css file*/
+
+.mui-modalLayout-OFS-dialogContainer,
+.mui-classSessionDetailsmodal-OFS-dialogContainer {
+  padding-top: 120px !important; /* Increase spacing from top */
+  position: relative !important;
+  z-index: 999999 !important;
+}
+
+
+.muiDialog-container.MuiDialog-scrollPaper {
+  position: fixed !important;
+  inset: 0 !important;
+  z-index: 999999 !important;
+  pointer-events: auto !important;
+}
