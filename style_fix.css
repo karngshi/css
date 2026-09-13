@@ -130,6 +130,7 @@
 	
 .btn-solid {
 	background: var(--orange-color) !important;
+	color: white !important;
 }
 
 .navbar-brand a svg path.icon {
